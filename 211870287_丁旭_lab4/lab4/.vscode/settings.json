@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "global.h": "c",
+        "string.h": "c",
+        "proto.h": "c",
+        "protect.h": "c"
+    }
+}
